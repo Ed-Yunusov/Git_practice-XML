@@ -8,8 +8,8 @@
 <Step3>Нажать на кнопку 'Где можно получить больше информации?</Step3>
 <Step4>Нажать на кнопку 'тут'</Step4>
 </STR>
-<Actual result>Возникает ошибка 'OOPS! THAT PAGE CAN'T BE FOUND</Actual result>
-<Expected result>Появляется страница с необходимой информацией</Expected result>
+<Actual_result>Возникает ошибка 'OOPS! THAT PAGE CAN'T BE FOUND</Actual_result>
+<Expected_result>Появляется страница с необходимой информацией</Expected_result>
 <Severity>Major</Severity>
 <Priority>High</Priority>
 <Status>Open</Status>
