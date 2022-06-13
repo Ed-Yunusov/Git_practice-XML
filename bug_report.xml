@@ -1,1 +1,18 @@
-
+<bug_report>
+<ID>1</ID>
+<Title>В разделе 'Помощь' не работает ссылка</Title>
+<Project>Сайт интернет-магазина HitechPlace</Project>
+<STR> 
+<Step1>Открыть главную страницу (ссылка_на_сайт)</Step1>
+<Step2>Нажать на кнопку 'Помощь' в верхнем меню</Step2>
+<Step3>Нажать на кнопку 'Где можно получить больше информации?</Step3>
+<Step4>Нажать на кнопку 'тут'</Step4>
+</STR>
+<Actual result>Возникает ошибка 'OOPS! THAT PAGE CAN'T BE FOUND</Actual result>
+<Expected result>Появляется страница с необходимой информацией</Expected result>
+<Severity>Major</Severity>
+<Priority>High</Priority>
+<Status>Open</Status>
+<Attachments>ссылка_на_картинку_с_багом</Attachments>
+<Author>Эдуард Юнусов</Author> 
+</bug_report>
