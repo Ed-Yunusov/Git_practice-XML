@@ -1,8 +1,8 @@
 #### Git_practice-XML
 1. Создать внешний репозиторий c названием Git_practice-XML
-    + открыть `https://github.com`. Залогиниться. Нажать кнопку `New`. 
-    + в поле Repository name ввести Git_practice-XML, выбрать Public и Add a README file. 
-    + Нажать `Create repository`.
+    + открыть `https://github.com`. Залогиниться. Нажать кнопку `New` 
+    + в поле Repository name ввести Git_practice-XML, выбрать Public и Add a README file 
+    + Нажать `Create repository`
 
 2. Клонировать репозиторий Git_practice-XML на локальный компьютер
     + Нажать `Code`, выбрать HTTPS, скопировать ссылку на репозиторий 
@@ -98,14 +98,14 @@
     + `git add . ; git commit -m "adding two files to the rep" ; git push`
 
 13. На веб интерфейсе создать файл bug_report.xml
-    + Войти в репозиторий Git_practice-XML. Нажать кнопку `Add file`.
-    + Выбрать `Create new file`. В поле Name your file ввести bug_report.xml.
+    + Войти в репозиторий Git_practice-XML. Нажать кнопку `Add file`
+    + Выбрать `Create new file`. В поле Name your file ввести bug_report.xml
 
 14. Сделать Commit changes (сохранить) изменения на веб интерфейсе
-    + Нажать кнопку `Commit new file`.
+    + Нажать кнопку `Commit new file`
 
 14. На веб интерфейсе модифицировать файл bug_report.xml, добавить баг репорт в формате XML
-    + Открыть файл bug_report.xml, нажать на кнопку `Edit this file`.
+    + Открыть файл bug_report.xml, нажать на кнопку `Edit this file`
 	```xml	
 	<bug_report>
 		<ID>1</ID>
@@ -128,7 +128,7 @@
 	```
 
 15. Сделать Commit changes (сохранить) изменения на веб интерфейсе
-    + Нажать кнопку `Commit changes`.
+    + Нажать кнопку `Commit changes`
 
 16. Синхронизировать внешний и локальный репозиторий Git_practice-XML
     + `git pull`
